@@ -1,0 +1,23 @@
+{
+    "name": "PCATV3",
+    "website": "https://www.pcatv3.finance/",
+    "description": "pCATv3 is the final iteration of PussyCatCore tokens that reward holders with BNB tokens!.",
+    "socials": [
+        {
+            "name": "Telegram",
+            "url": "https://t.me/pcat_tokens",
+            "handle": "pcat_tokens"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/pussycatcore",
+            "handle": "pussycatcore"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x41d7ca990138dddd70aef6a66cce6cf37b478428",
+    "type": "BEP20",
+    "symbol": "pCATv3",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x41d7ca990138dddd70aef6a66cce6cf37b478428"
+}
